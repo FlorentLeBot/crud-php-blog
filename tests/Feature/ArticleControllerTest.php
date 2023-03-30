@@ -1,0 +1,1 @@
+<!-- On teste le contrôleur Article -->

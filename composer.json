@@ -1,0 +1,20 @@
+{
+    "name": "flore/crud-php-blog",
+    "autoload": {
+        "psr-4": {
+            "Flore\\CrudPhpBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florent Le Bot",
+            "email": "florent.lebot@live.fr"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
